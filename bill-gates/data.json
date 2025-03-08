@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "FARMLAND",
+        "price": 2,
+        "img": "/img/big-mac.jpg",
+        "quantity":0
+    },
+
+    {
+        "id": 2,
+        "name": "HANDBANG",
+        "price": 3,
+        "img":"/img/flip-flops.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":3,
+        "name":"RING",
+        "price":5,
+        "img":"/img/coca-cola-pack.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":4,
+        "name":"FORD",
+        "price":12,
+        "img":"/img/movie-ticket.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":5,
+        "name":"HORSE",
+        "price":15,
+        "img":"/img/book.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":6,
+        "name":"HOT TUB",
+        "price":45,
+        "img":"/img/lobster-dinner.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":7,
+        "name":"JET SKI",
+        "price":60,
+        "img":"/img/video-game.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":8,
+        "name":"LUXURY WINE",
+        "price":99,
+        "img":"/img/amazon-echo.jpg",
+        "quantity":0
+    },
+
+    {
+        "id":9,
+        "name":"ROLEX",
+        "price":100,
+        "img":"/img/year-of-netflix.jpg",
+        "quantity":0
+    }
+]
+ 
